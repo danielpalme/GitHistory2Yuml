@@ -1,0 +1,6 @@
+/packages/LibGit2Sharp*
+/target
+*.suo
+*.user
+*.Cache
+obj
